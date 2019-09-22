@@ -1,3 +1,3 @@
 # git-study
 
-this is a new test 20:14
+this is a new test 20:22
