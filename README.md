@@ -1,3 +1,3 @@
 # git-study
 
-this is a new text for git.sh
+20:04
