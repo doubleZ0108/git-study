@@ -1,3 +1,3 @@
 # git-study
 
-this is a text for git.sh
+this is a new text for git.sh
