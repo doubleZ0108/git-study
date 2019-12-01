@@ -21,3 +21,7 @@
 3. `git checkout -b fresh origin/fresh`可将远程的分支拉到本地
 
 ### 删除远程仓库的分支
+
+1. 切换到其他分支
+2. 在本地删除该分支：git branch -D freshbranch
+3. 同步到远程仓库：git push origin :freshbranch
