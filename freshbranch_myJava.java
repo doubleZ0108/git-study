@@ -1,5 +1,5 @@
-class FreshBranchTest{
-	public static void main(String []args){
-		System.out.println("hello world");
-	}
+class FreshBranchTest {
+    public static void main(String[] args) {
+        System.out.println("hello world");
+    }
 }

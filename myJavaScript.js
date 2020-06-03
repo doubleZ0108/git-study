@@ -1,5 +1,5 @@
-function Hello(){
-    for(var i=0;i<10;++i){
+function Hello() {
+    for (var i = 0; i < 10; ++i) {
         print("Hello world!");
     }
 }
